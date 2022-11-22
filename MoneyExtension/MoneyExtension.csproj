@@ -15,9 +15,14 @@
     <RepositoryUrl>https://github.com/EdsonSantosActuar/money-extensions</RepositoryUrl>
     <PackageProjectUrl>https://github.com/EdsonSantosActuar/money-extensions</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>icon.png</PackageIcon>
     <PackageTags>decimal;int;convert</PackageTags>
     <Title>MoneyExtensions</Title>
     <Summary>Convert decimal to int</Summary>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Media\icon.png" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 
 </Project>
