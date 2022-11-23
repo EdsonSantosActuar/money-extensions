@@ -5,8 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>cb6855e0691b4136ac7f11b4b4228288MoneyExtension</PackageId>
-    <Version>1.0.0</Version>
+    <PackageId>Moneycb6855e0691b4136ac7f11b4b4228288devescode</PackageId>
+    <Version>1.0.1</Version>
     <License>MIT</License>
     <Authors>Edson Santos</Authors>
     <Company>ES Code</Company>
